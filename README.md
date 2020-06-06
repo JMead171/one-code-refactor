@@ -1,5 +1,4 @@
-# Name
-HTML CSS Git: Code Refactor.
+# HTML CSS Git: Code Refactor Challenge
 
 ## Description
 Took existing code and updated to meet a set of acessibility standards. Web accessibility: ensuring that people with disabilities or restrictions have access to their website.
