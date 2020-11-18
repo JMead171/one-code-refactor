@@ -15,6 +15,9 @@ You will find accessible alt attributes
 Heading attributes fall in sequential order
 Concisea and descriptive title
 
+# Screen Shot
+![image](https://user-images.githubusercontent.com/64744763/99555816-b8f39c80-298e-11eb-8309-93393409767d.png)
+
 # Project status
 Complete
 
